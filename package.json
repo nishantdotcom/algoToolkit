@@ -1,0 +1,23 @@
+{
+  "name": "algotoolkit",
+  "version": "1.0.0",
+  "description": "A react based app to visaulise algorithm.\r by:Nishant kumar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshukaushal123/algoToolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himanshukaushal123/algoToolkit/issues"
+  },
+  "homepage": "https://github.com/himanshukaushal123/algoToolkit#readme",
+  "dependencies": {
+    "material-ui": "^0.20.2",
+    "react": "^17.0.2"
+  }
+}
